@@ -10,8 +10,8 @@ android {
         applicationId "com.amitgupta.locationmodule"
         minSdkVersion 20
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 6
+        versionName "0.0.6"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
